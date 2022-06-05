@@ -5,7 +5,7 @@
 hr {
   border-color: grey;
   border-width: 15px;
-  border-style: dashed;
+  border-style: dotted none none;
   width: 10%;
 }
 
